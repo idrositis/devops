@@ -2,12 +2,12 @@
 
 Notes on Oracle databases:
 
-  1. [Switch/Login to a Pluggable Database](#switchlogin-to-a-pluggable-database)
-  2. [Uset Expired Password](#unset-expired-password)
+  1. [Switch/Login to a Pluggable Database](#1-switchlogin-to-a-pluggable-database)
+  2. [Reset Expired Password](#2-reset-expired-password)
 
 
 ## 1. Switch/Login to a Pluggable Database
 
 
-## 2. Unset Expired Password
+## 2. Reset Expired Password
 
