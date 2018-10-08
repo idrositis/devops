@@ -42,7 +42,7 @@ note_added_ok=$?
 
 # Add note reference in parent README
 if [[ $note_added_ok == 0 ]]; then
-  sed -i "s#^\[//\]: \#.*#  - [$1]($1)#g" README.md
+  sed -i "s/^\[\/\/\].*$/  - \[$1\]\($1\)\n\n&/g" README.md
   note_added_ok=$((note_added_ok + $?))
 fi
 
