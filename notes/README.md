@@ -5,6 +5,7 @@ The notes below might save you some time (and pain)...
   - [`date`](date)
   - [Markdown](markdown)
   - [Oracle Databases](oracle-db)
+  - [`tar`](tar)
 
 [//]: # (NEW NOTE REFERENCE GOES HERE)
 
